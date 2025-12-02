@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オセロシンドローム",
+  "base_artist": "NARI",
+  "createdAt": "2025-12-02T07:47:47.323646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オセロシンドローム",
+      "artist": "NARI",
+      "has_synced": true,
+      "path": "select/01_オセロシンドローム_NARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オセロシンドローム",
+      "artist": "NARI",
+      "has_synced": false,
+      "path": "select/pl_01_オセロシンドローム_NARI.txt"
+    }
+  ]
+}
